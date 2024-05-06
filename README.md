@@ -40,20 +40,21 @@
 
 <h2 align="center">🌟 Stats  🌟</h2>
 <br>
-<div align="center">
-<img width=390 src="https://streak-stats.demolab.com/?user=lakshzero&count_private=true&theme-react&border_radius=10" alt=streal stats"/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lakshzero&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lakshzero&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshzero&show_icons=true" />
-</picture>
+<div align=center>
+  <img width=413 src="https://streak-stats.demolab.com/?user=lakshzero&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=lakshzero&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+    
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshzero&&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github.com/lakshzero/github-readme-stats)
+    
+</div>
+</div>
 
+<br/><br/>
+
+<hr/>
+
+<br/>
 
 
 
