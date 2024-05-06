@@ -11,7 +11,7 @@
 🌱I'm currently learning ReactJs
 </div>
 <div align="center">
-<a href="mailto:lakshayraghuwanshi@gmail.com"></a>
+<a href="mailto:lakshayraghuwanshi@gmail.com" target="_blank" />
 <img src="http://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
 </a>
 <a href="<a href="https://www.linkedin.com/in/lakshya-raguwanshi-859a33162"</a>
