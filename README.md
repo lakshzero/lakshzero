@@ -25,5 +25,28 @@
   <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git"/>
 </a>
 </div>
+<br/>
+<hr/>
+<div align="center"> 
+<h2>💫My Contributions💫</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lakshzero/lakshzero/output/github-contributions-grid-snake.svg" />
+
+<br/><br/><br/>
+</div>
+
+
+<hr/>
+
+
+<h2 align="center">🌟 Stats  🌟</h2>
+<br>
+<div align="center">
+<img width=390 src="https://streak-stats.demolab.com/?user=lakshzero&count_private=true&theme-react&border_radius=10" alt=streal stats"/>
+<img width=390 src="https://
+
+
+
+
+
 
 
