@@ -11,7 +11,7 @@
 🌱I'm currently learning ReactJs
 </div>
 <div align="center">
-<a herf="mailto:pedro.sales.lakshayraghuwanshi@gmail.com">
-<img src="http://img.shirlds.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+<a herf="mailto:lakshayraghuwanshi@gmail.com">
+<img src="http://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
 </a>
    
