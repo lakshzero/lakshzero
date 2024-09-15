@@ -23,12 +23,6 @@
 <a herf="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,firebase,mongodb,c,java"/><br>
   <img src="https://skillicons.dev/icons?i=react,r,bootstrap,mui,mysql,flask,html,css,vscode,figma,git"/>
-</a>
-</div>
-<br/>
-<hr/>
-<hr/>
-
 
 <h2 align="center">🌟 Stats  🌟</h2>
 <br>
